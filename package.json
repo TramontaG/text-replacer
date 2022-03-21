@@ -1,0 +1,9 @@
+{
+  "name": "text-replacer",
+  "version": "1.0.0",
+  "description": "Simple text replacer utility",
+  "main": "./dist/index.js",
+  "repository": "git@github.com:TramontaG/text-replacer.git",
+  "author": "Guilherme Tramontano <tramontano.guiherme@yahoo.com.br>",
+  "license": "MIT"
+}

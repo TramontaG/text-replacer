@@ -11,4 +11,5 @@ export type SingleReplacementArgs = {
 	indexes: number[];
 };
 
-export const replaceMap: ReplacementFn;
+declare const replaceMap: ReplacementFn;
+export default replaceMap;
